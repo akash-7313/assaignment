@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    font-family: 'Bree Serif', serif;
+}
+h1{
+    font-size: 45px;
+}
+.preity{
+    color: olive;
+}
+.flexible{
+    display: flex;
+}
+.first-section{
+    padding-top: 50px;
+    margin-bottom: 150px;
+}
+.half-placeholder{
+    width: 50%;
+    padding-left: 70px;
+    line-height: 30px;
+}
+.top-space{
+    padding-top: 150px;
+    padding-left: 80px;
+}
+.anchor{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    background-image: linear-gradient(#b38839,#818132);
+    padding: 10px 25px;
+    border-radius: 20px;
+}
+.half-placeholder img{
+    width: 85%;
+}
+.second-section{
+    background-image: url(mid-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    margin-bottom: 100px;
+}
+.second-section img{
+    width: 90%;
+    height: 100%;
+}
+.second-section h2{
+    font-size: 40px;
+    font-weight: 700;
+}
