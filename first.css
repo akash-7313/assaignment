@@ -83,6 +83,18 @@ h1{
 .padd-l{
     padding-left: 50px;
 }
+.more-info{
+    width: 25%;
+    padding-left: 50px;
+}
+.more-info img{
+    width: 10%;
+    margin-right: 10px;
+}
+.more-info ul{
+    list-style-type: none;
+    padding-left: 1px;
+}
 footer{
     text-align: center;
     color: #ffffffd0;
