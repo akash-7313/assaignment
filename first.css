@@ -1,6 +1,7 @@
 body{
     margin: 0;
     font-family: 'Bree Serif', serif;
+    text-align: justify;
 }
 h1{
     font-size: 45px;
@@ -73,6 +74,19 @@ h1{
     height: 200px;
     border-radius: 20px;
 }
+#mobile-img{
+    width: 100%;
+    height: 350px;
+    border-radius: 20px;
+}
+.app-image{
+    width: 100px;
+    height: 80px;
+}
+.fourth-section{
+    padding-left: 20px;
+    margin-bottom: 100px;
+}
 footer{
     text-align: center;
     color: #ffffffd0;
@@ -84,17 +98,4 @@ footer h2{
 }
 #network{
     color: crimson;
-}
-#mobile-img{
-    width: 100%;
-    height: 350px;
-    border-radius: 20px;
-}
-.app-image{
-    width: 100px;
-    height: 80px;
-}
-.last-section{
-    padding-left: 20px;
-    margin-bottom: 100px;
 }
