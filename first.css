@@ -71,6 +71,7 @@ h1{
 .width-holder img{
     width: 100%;
     height: 200px;
+    border-radius: 20px;
 }
 footer{
     text-align: center;
